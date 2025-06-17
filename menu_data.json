@@ -1,0 +1,126 @@
+{
+  "veg_package": {
+    "price_per_head": "$11.99",
+    "min_count": 35,
+    "selections": {
+      "Appetizers": [
+        "Onion Pakoda",
+        "Cut Mirchi",
+        "Punugulu",
+        "Assorted Bajji",
+        "Gobi Manchuria",
+        "Gobi 65"
+      ],
+      "Curries": [
+        "Bendi Fry",
+        "Aloo Fry",
+        "Tindora Fry",
+        "Veg Khorma",
+        "Veg Malai Methi",
+        "Paneer Butter Masala"
+      ],
+      "Rice": [
+        "White Rice",
+        "Bagara Rice",
+        "Veg Pulao"
+      ],
+      "Desserts": [
+        "Gulab Jamun",
+        "Rasmalai",
+        "Fresh Fruit Custard"
+      ]
+    }
+  },
+  "non_veg_package": {
+    "price_per_head": "$14.99",
+    "min_count": 35,
+    "selections": {
+      "Appetizers": [
+        "Chicken 65",
+        "Chilly Chicken",
+        "Chicken Manchuria"
+      ],
+      "Curries": [
+        "Andhra Chicken Curry",
+        "Chicken Tikka Masala",
+        "Ankapur Chicken Curry"
+      ],
+      "Rice": [
+        "Chicken Dum Biryani",
+        "Veg Dum Biryani",
+        "Veg Pulao"
+      ],
+      "Desserts": [
+        "Gulab Jamun",
+        "Rasmalai",
+        "Fresh Fruit Custard"
+      ]
+    }
+  },
+  "live_counters": {
+    "Dosa Counter": [
+      "Plain Dosa",
+      "Onion Dosa",
+      "Masala Dosa",
+      "Cheese Dosa"
+    ],
+    "Chat Counter": [
+      "Paani Puri",
+      "Bhel Puri"
+    ],
+    "Snack Counter": [
+      "Cut Mirchi",
+      "Cut Mirchi Chat"
+    ]
+  },
+  "veg_appetizers_full": [
+    "Onion Pakoda",
+    "Cut Mirchi",
+    "Assorted Bajji",
+    "Punugulu",
+    "Mushroom S/P",
+    "Gobi 65",
+    "Gobi Manchurian",
+    "Fried Babycorn",
+    "Veg Manchurian",
+    "Chilly Paneer"
+  ],
+  "non_veg_appetizers_full": [
+    "Chicken 65",
+    "Chilly Chicken",
+    "Chicken Manchuria",
+    "Chicken Kalimirchi",
+    "Chicken Vepudu",
+    "Karampodi Chicken",
+    "Chicken Chat Pat",
+    "Chicken Majestic",
+    "Chicken - 555",
+    "Chicken Spring Roll",
+    "Chicken KJU Pakoda",
+    "Achari Tikka",
+    "Goat Fry",
+    "Goat Kalimirchi",
+    "Mutton Roast",
+    "Lamb Chops",
+    "Lamb Sheehk Kebab",
+    "Tawa Lamb",
+    "Chilly Fish",
+    "Appolo Fish",
+    "Fish Roast",
+    "Shrimp Vepudu",
+    "Loose Prawns",
+    "Tandoori Quail"
+  ],
+  "tiffins": [
+    "Upma",
+    "Pongal",
+    "Idly",
+    "Pesara Garelu",
+    "Perugu Garelu",
+    "Masala Wada",
+    "Wada",
+    "Mysore Bonda",
+    "Bisi Bele Bath",
+    "Dadojanam"
+  ]
+}
